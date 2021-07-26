@@ -84,7 +84,6 @@ section{
   margin: 100px 0px 0px 0px;
   max-width: 500px;
   max-height: 500px;
-  /* background: #2a8653; */
 }
 
 .title-home{ 
@@ -127,9 +126,6 @@ p{
 }
 
 /* Section Product */
- 
-
-
 .gab-card{
   margin-top: 200px;
   display: flex;
@@ -156,10 +152,7 @@ color: #898989;
 
 
 .card img {
-/* display: block; */
 border: 0;
-/* width: 100%; */
-/* max-width: 100%; */
 height: 50%;
 width: 100%;
 
@@ -199,14 +192,10 @@ font-weight: 800;
 color: #fff;
 }
 
-/* Flexbox stuff */
-
-
 .card {
 flex: 0 1 24%;
 }
 
-/* Section Partner */ 
 
 
 
@@ -377,11 +366,9 @@ input[type="checkbox"]{
 
 .gab{
 
-  /* min-height: 100vh; */
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background: #2C2E43; */
   margin: 50px;
   margin-top: 200px;
   margin-left:125px;
@@ -390,7 +377,6 @@ input[type="checkbox"]{
 }
 
 .contact-section{
-  /* width: 100%; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -421,7 +407,6 @@ input[type="checkbox"]{
 .contact-form{
   max-width: 700px;
   margin-right: 50px;
-  /* background:; */
 }
 
 .contact-info, .contact-form{
@@ -508,7 +493,6 @@ textarea::-webkit-input-placeholder{
   display: block;
   margin: auto;
   padding-top: 100px;
-  /* background: #201e1e; */
 }
 
 .content-section-a{
@@ -523,7 +507,6 @@ textarea::-webkit-input-placeholder{
 }
 
 .image-section-a .img-a{
-  /* width: 100%; */
   height: auto;
 }
 
